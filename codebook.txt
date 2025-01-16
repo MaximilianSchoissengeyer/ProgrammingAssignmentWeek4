@@ -1,0 +1,4 @@
+activity	describes the current activity perfomed
+subjectID	assigns every test person/subject an ID
+
+the rest of the columns describe the average measurement of each feature
